@@ -7,6 +7,16 @@
 </p>
 
 
+Welcome
+Welcome
+Welcome
+Welcome
+Welcome
+Welcome
+Welcome
+Welcome
+Welcome
+Welcome
 
 Welcome to our GitHub repository featuring 50+ Python applications with only 10 lines of code! In this repository, you'll find a wide range of topics such as Machine Learning, Deep Learning, GUI, Computer Vision, and API development. Each application is designed to be simple and concise, making it easy to understand and modify. Whether you're a beginner or an experienced developer, these applications are perfect for learning and experimenting with Python. So dive in, explore, and have fun!
 
