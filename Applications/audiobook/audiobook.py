@@ -1,3 +1,4 @@
+# adding a comment at the top of the file
 import pyttsx3
 book=open(r"book.txt")
 book_text=book.readlines()
